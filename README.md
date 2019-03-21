@@ -7,7 +7,7 @@
 
 I needed a quick calculator for my 555 timer projects. I got tired of dragging out the spec sheet and the hand calculator any time I needed to find the values for a frequency or a one-shot monostable setup so I sat down and wrote these two apps. One is for the astable (free running) variety and the other one is for the monostable version.
 
-The usage is pretty straight forward. You input whichever knowns you have like the two resistors and freqency and then let the calculator compute the unknown, in this instance, the capacitor. I won't write a twelve page 'how-to' for them as you are all more than able to make the calculators work without my blathering on about it. Enjoy them. They make life a little bit easier. *grin*
+The usage is pretty straight forward. You input whichever knowns you have like the two resistors and freqency and then let the calculator compute the unknown, in this instance, the capacitor. I won't write a twelve page 'how-to' for them as you are all more than able to make the calculators work without my blathering on about it. Enjoy them. They make life a little bit easier. \*grin\*
 
 ## The Project
 
